@@ -1,0 +1,11 @@
+{
+  "properties": [
+    {
+      "name": "oss.enable",
+      "type": "java.lang.Boolean",
+      "description": "Enable S3 Oss.",
+      "sourceType": "com.anthonyzero.spring.boot.autoconfigure.properties.OssProperties",
+      "defaultValue": "true"
+    }
+  ]
+}
